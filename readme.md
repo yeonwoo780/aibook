@@ -2,6 +2,6 @@
 
 ## 목차
 
-### [1. Machine Learning](#./book/ml/readme.md)
+### [1. Machine Learning](book/ml/readme.md)
 
 
