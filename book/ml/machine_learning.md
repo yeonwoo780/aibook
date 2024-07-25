@@ -48,8 +48,6 @@
 
 #### Q. 머신러닝이란 무엇을 의미하나?
 
-#### A.
-
 1. 데이터를 수집하는 과정
 
 2. 기계가 스스로 규칙성을 찾는 것
@@ -92,8 +90,6 @@
 
 <details><summary>정답</summary>
 
-
-
 3
 
 </details>
@@ -109,8 +105,6 @@
 4. 하이퍼파라미터를 튜닝하기 위해
 
 <details><summary>정답</summary>
-
-
 
 3
 
@@ -128,8 +122,6 @@
 
 <details><summary>정답</summary>
 
-
-
 1
 
 </details>
@@ -145,8 +137,6 @@
 4. 데이터를 전처리 하기 위해
 
 <details><summary>정답</summary>
-
-
 
 1
 
@@ -164,8 +154,6 @@
 
 <details><summary>정답</summary>
 
-
-
 2
 
 </details>
@@ -182,8 +170,6 @@
 
 <details><summary>정답</summary>
 
-
-
 2
 
 </details>
@@ -199,8 +185,6 @@
 4. 초기값으로 고정된다
 
 <details><summary>정답</summary>
-
-
 
 2
 
