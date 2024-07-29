@@ -8,4 +8,6 @@
 
 ### [3. 지도 학습과 비지도 학습](Supervised&Unsupervised.md)
 
-### [4. 군집화](Clustering.md)
+### [4. 군집화](clustering.md)
+
+### [5. 혼동행렬](Confusion_Matrix.md)
